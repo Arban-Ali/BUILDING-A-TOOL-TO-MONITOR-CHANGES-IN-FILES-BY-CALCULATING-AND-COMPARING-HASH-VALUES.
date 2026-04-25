@@ -61,3 +61,4 @@ python monitor.py
 #output
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ada23a4c-3eca-4677-8301-dd0c2bf5bee7" />
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ad1698a7-e660-4573-ad6b-87378bd0fc1c" />
