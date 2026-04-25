@@ -59,3 +59,5 @@ python monitor.py
 - It is a way to learn about keeping files safe which is called File Integrity Monitoring.
 
 #output
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ada23a4c-3eca-4677-8301-dd0c2bf5bee7" />
+
