@@ -1,2 +1,8 @@
-# BUILDING-A-TOOL-TO-MONITOR-CHANGES-IN-FILES-BY-CALCULATING-AND-COMPARING-HASH-VALUES.
-A lightweight tool built to monitor file security using SHA-256 hashing. It establishes a baseline "fingerprint" of a file and runs a continuous loop to detect unauthorized changes or tampering in real-time. Features chunked reading for memory efficiency and instant CLI alerts. Perfect for learning Data Integrity and Cybersecurity basics.
+FILE INTEGRITY CHECKER
+
+*Company Name* : Codtech IT Solutions Private Limited
+*Name* : Sayyad Arban Ali
+*Intern Id* : CTIS5711
+*Domain* : Cyber Security & Ethical Hacking
+*Duration* : 16 Weeks
+*Mentor* : Neela Santosh
